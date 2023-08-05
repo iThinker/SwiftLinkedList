@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "C5C159E2-2E96-4295-9FFC-014F221B7D74",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:LinkedList.xcodeproj",
+        "identifier" : "BFFE47622A6333990053668C",
+        "name" : "LinkedListPerformanceTests"
+      }
+    }
+  ],
+  "version" : 1
+}
